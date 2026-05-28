@@ -1,0 +1,23 @@
+{
+
+    "1": {
+
+        "grammar": "你鍾意咩[0]？",
+        "explanation": "In the conversation when Alex was asking the name of May, he said '你叫咩名', breaking it down, we get 'you-call-what-name', as we can investigate from here, 'call' is a verb and 'name' is a noun, these can be replaced by any verbs and noun as long as it makes sense(sometimes even if it doesn't).",
+        "examples": [
+            
+            ["你揀咩飲品？", "you-choose-what-drink"],
+            ["你食咩餸？", "you-eat-what-dish"],
+            ["你鍾意咩類型？", "you-like-what-type"],
+            ["你睇咩戲？", "you-watch-what-movie"]
+
+        ],
+        "exercises": [
+            
+            ["地方|place"], ["遊戲|game"], ["歌|song"], ["類型|type"]
+
+        ]
+
+    }
+
+}

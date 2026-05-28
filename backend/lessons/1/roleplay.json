@@ -1,0 +1,69 @@
+{
+
+    "1": {
+
+        "question": "How do you greet someone?",
+        "answer": "你好"
+
+    },
+
+    "2": {
+
+        "question": "How do you introduce yourself, and ask for the name of the person?",
+        "answer": "我叫名字，你叫咩名？",
+        "ignore": [ [ 2, 4, "名字" ] ]
+        
+
+    },
+
+    "3": {
+
+        "question": "How do you ask if someone is from Hong Kong?",
+        "answer": "你係咪香港人？"
+
+    },
+
+    "4": {
+
+        "question": "How do you tell your nationality/identity?",
+        "answer": "我係国籍人",
+        "ignore": [ [ 2, 4, "国籍" ] ]
+
+    },
+
+    "5": {
+
+        "question": "How do you say 'That's right'?",
+        "answer": "冇錯"
+
+    },
+
+    "6": {
+
+        "question": "How do you say 'Oh I see'?",
+        "answer": "原來係咁"
+
+    },
+
+    "7": {
+
+        "question": "How do you say 'Me too'?",
+        "answer": "我都係"
+
+    },
+
+    "8": {
+
+        "question": "Slang: How do you express a complicated meaning of 'If possible, I don't wanna meet you again, even if I am available, I won't date you, even if I date you, we won't go yumcha'(sometimes it really means 'let's go out the other day' tho)",
+        "answer": "得閒飲茶"
+
+    },
+
+    "9": {
+
+        "question": "How do you express your happiness of meeting the new friend?",
+        "answer": "好高興認識你"
+
+    }
+
+}

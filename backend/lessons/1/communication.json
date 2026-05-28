@@ -1,0 +1,35 @@
+{
+
+    "1": {
+
+        "question": "A1",
+        "description": "Greet him back",
+        "answer": "B1"
+
+    },
+
+    "2": {
+
+        "question": "A2",
+        "description": "Ask him to call you sister May",
+        "answer": "B2"
+
+    },
+
+    "3": {
+
+        "question": "A3",
+        "description": "Agree with him",
+        "answer": "B3"
+
+    },
+
+    "4": {
+
+        "question": "A4",
+        "description": "Tell her you too, piss",
+        "answer": "B4"
+
+    }
+
+}

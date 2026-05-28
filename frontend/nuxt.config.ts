@@ -1,0 +1,53 @@
+import tailwindcss from '@tailwindcss/vite'
+
+// https://nuxt.com/docs/api/configuration/nuxt-config
+export default defineNuxtConfig({
+  compatibilityDate: '2025-07-15',
+  devtools: { enabled: false },
+  devServer: {
+    port: 5173, // Replace with your desired port
+  },
+  css: ['~/assets/css/tailwind.css'],
+  vite: {
+    plugins: [
+      tailwindcss(),
+    ],
+  },
+  modules: [
+    'shadcn-nuxt',
+    '@nuxtjs/google-fonts',
+    'v-gsap-nuxt',
+    '@nuxt/icon',
+    '@nuxt/image',
+    '@nuxt/ui'
+  ],
+  shadcn: {
+    /**
+     * Prefix for all the imported component.
+     * @default "Ui"
+     */
+    prefix: '',
+    /**
+     * Directory that the component lives in.
+     * Will respect the Nuxt aliases.
+     * @link https://nuxt.com/docs/api/nuxt-config#alias
+     * @default "@/components/ui"
+     */
+    componentDir: '@/components/ui'
+  },
+  runtimeConfig: {
+
+    public: {
+
+      apiBase: "http://localhost:8080/api"
+
+    }
+
+  },
+  googleFonts: {
+
+    families: { Inter: '200..900' },
+    inject: true
+
+  }
+})

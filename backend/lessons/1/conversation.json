@@ -1,0 +1,64 @@
+{
+
+    "a": {
+
+        "name": "Alex",
+        "intro": "A Japanese studying Cantonese, now travelling in Hong Kong",
+        "lines": [
+
+            {
+                "id": "A1",
+                "timestamp": "00:00",
+                "content": "你好"
+            },
+            {
+                "id": "A2",
+                "timestamp": "00:06",
+                "content": "我叫Alex，你叫咩名？"
+            },
+            {
+                "id": "A3",
+                "timestamp": "00:14",
+                "content": "May姐，你係咪香港人呀？"
+            },
+            {
+                "id": "A4",
+                "timestamp": "00:25",
+                "content": "原來係咁，好高興認識你呀"
+            }
+
+        ]
+
+    },
+
+    "b": {
+
+        "name": "May",
+        "intro": "A local Hongkonger, people call her Sister May",
+        "lines": [
+            {
+                "id": "B1",
+                "timestamp": "00:03",
+                "content": "你好"
+            },
+            {
+                "id": "B2",
+                "timestamp": "00:10",
+                "content": "叫我May姐吖！"
+            },
+            {
+                "id": "B3",
+                "timestamp": "00:19",
+                "content": "冇錯呀，我係香港人"
+            },
+            {
+                "id": "B4",
+                "timestamp": "00:31",
+                "content": "我都係呀Alex，得閒飲茶啦"
+            }
+        ]
+
+    }
+
+
+}

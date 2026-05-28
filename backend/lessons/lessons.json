@@ -1,0 +1,46 @@
+{
+    "1": {
+        "name": "Meet your first Cantonese-speaking friend!",
+        "goals": [
+            "Master basic greetings",
+            "Able to introduce yourself",
+            "Able to ask simple questions"
+        ]
+    },
+
+    "2": {
+        "name": "Daily Life Survival Cantonese",
+        "goals": [
+            "Understand basic daily expressions",
+            "Able to respond to simple questions",
+            "Recognize common sentence patterns"
+        ]
+    },
+
+    "3": {
+        "name": "Ordering Food & Talking About Preferences",
+        "goals": [
+            "Able to order food in Cantonese",
+            "Express likes and dislikes",
+            "Understand numbers and basic classifiers"
+        ]
+    },
+
+    "4": {
+        "name": "Getting Around & Asking for Help",
+        "goals": [
+            "Able to ask for directions",
+            "Understand transportation-related vocabulary",
+            "Able to request help politely"
+        ]
+    },
+
+    "5": {
+        "name": "From Phrases to Real Conversations",
+        "goals": [
+            "Combine learned phrases into short conversations",
+            "Understand basic sentence flow in Cantonese",
+            "React naturally in simple real-life scenarios"
+        ]
+    }
+}
